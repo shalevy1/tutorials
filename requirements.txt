@@ -27,5 +27,5 @@ pandas
 scikit-image
 # pillow >= 4.2 will throw error when trying to write mode RGBA as JPEG,
 # this is a workaround to the issue.
-pillow==7.1.0
+pillow==8.2.0
 wget
